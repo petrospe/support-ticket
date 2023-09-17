@@ -108,8 +108,8 @@
     <div class="footer">
         <div>
             <span>Support Ticket System</span>
-            <a href="http://petrospe.org/">Portfolio</a>
-            <a href="http://petrospe.org/page/about">About</a>
+            <a href="//petrospe.org/">Portfolio</a>
+            <a href="//petrospe.org/page/about">About</a>
         </div>
     </div>
     <!-- Scripts -->
